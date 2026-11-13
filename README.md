@@ -24,3 +24,5 @@ Some code is clean, some is exploratory, and some is just me trying things out.
 ├── .gitignore
 └── README.md
 ```
+
+[amesh housing dataset ](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset?select=AmesHousing.csv)
