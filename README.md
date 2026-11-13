@@ -25,4 +25,14 @@ Some code is clean, some is exploratory, and some is just me trying things out.
 └── README.md
 ```
 
-[amesh housing dataset ](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset?select=AmesHousing.csv)
+## Notebooks
+
+| Notebook                              | Description                                                                                                                                      |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `01_data_understanding.ipynb`         | EDA on the Ames Housing dataset (2930 rows × 82 cols) — loading, summary stats, missing values, distributions, and feature exploration.          |
+| `02_understanding_pytorch.ipynb`      | PyTorch basics: device setup (CPU/CUDA/XPU), tensor operations, and a CPU vs XPU matrix multiplication benchmark (~4.2x speedup on XPU).         |
+| `03_learning_the_training_loop.ipynb` | Low-level training loop from scratch: manual forward/backward passes, MSE loss, SGD optimizer, and epoch-by-epoch loss tracking on housing data. |
+
+## Links
+
+[Amesh housing dataset ](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset?select=AmesHousing.csv)
