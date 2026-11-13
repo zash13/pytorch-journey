@@ -3,3 +3,8 @@ package-lock.json
 package.json
 env/
 
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+output/
+results/
